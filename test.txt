@@ -1,0 +1,4 @@
+This is a super secret test file
+Definitely don't screenshot https://emby.zachkline.us
+Username: guest
+Password: supersecretpassword
